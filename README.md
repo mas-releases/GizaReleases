@@ -1,7 +1,7 @@
-# System service
-# Category Types [add - edit - delete - getall]
-# States [add - edit - delete - getall]
-# Datasource [add - edit - delete - getall]
-# Datasource Details [add - edit - delete - getall]
-# Fields [add - edit - delete - getall]
-# Application Types [get - getall]
+# 1 - GateWay
+# 2 - Applications
+# 3- Login
+# 4- Query
+# 5- custMod
+# 6- biller
+# 7- billingSource
